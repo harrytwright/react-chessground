@@ -1,11 +1,11 @@
 {
   "name": "react-chessground",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "description": "React wrapper for chessground <https://github.com/ornicar/chessground>",
   "main": "index.js",
   "module": "es/index.js",
   "scripts": {
-    "build": "gulp"
+    "install": "gulp"
   },
   "repository": {
     "type": "git",
